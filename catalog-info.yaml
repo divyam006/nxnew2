@@ -5,9 +5,6 @@ metadata:
   description: |
     Backstage is an open-source developer portal that puts the developer experience first.
   links:
-    - name: Demo Dashboard
-      type: dashboard
-      url: https://us5.datadoghq.com/dashboard/qhr-5ub-tf8/test?refresh_mode=sliding&from_ts=1698729637767&to_ts=1698733237767&live=true
     - title: Website
       url: http://backstage.io
     - title: Documentation
