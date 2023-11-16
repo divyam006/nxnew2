@@ -21,9 +21,6 @@ metadata:
       type: runbook
       url: http://runbook/shopping-cart
   annotations:
-    github.com/project-slug: backstage/backstage
-    backstage.io/techdocs-ref: dir:.
-    lighthouse.com/website-url: https://backstage.io
     datadoghq.com/dashboard-url: https://p.us5.datadoghq.com/sb/63611e26-7ec4-11ee-beb5-da7ad0900005-05714b7d6c24225a0a8f84959ea647bb
 spec:
   type: service
