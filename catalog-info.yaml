@@ -17,6 +17,9 @@ metadata:
       type: doc
       provider: wiki
       url: https://wiki/ecommerce
+    - name: Runbook
+      type: runbook
+      url: http://runbook/shopping-cart
   annotations:
     github.com/project-slug: backstage/backstage
     backstage.io/techdocs-ref: dir:.
