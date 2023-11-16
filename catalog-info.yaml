@@ -14,6 +14,10 @@ metadata:
     - name: Runbook
       type: runbook
       url: http://runbook/shopping-cart
+    - name: Source
+      type: repo
+      provider: github
+      url: https://github.com/divyam006/nxnew2
   annotations:
     datadoghq.com/dashboard-url: https://p.us5.datadoghq.com/sb/63611e26-7ec4-11ee-beb5-da7ad0900005-05714b7d6c24225a0a8f84959ea647bb
 spec:
