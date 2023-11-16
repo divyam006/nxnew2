@@ -13,6 +13,10 @@ metadata:
       url: https://backstage.io/storybook
     - title: Discord Chat
       url: https://discord.com/invite/EBHEGzX
+    - name: E-Commerce Team
+    type: doc
+    provider: wiki
+    url: https://wiki/ecommerce
   annotations:
     github.com/project-slug: backstage/backstage
     backstage.io/techdocs-ref: dir:.
